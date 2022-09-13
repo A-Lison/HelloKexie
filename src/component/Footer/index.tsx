@@ -124,13 +124,13 @@ const data: Array<Table> = [
                 url: 'https://七院创新基地.cn/',
             },
             {
-                name: '校基地软件部',
-                url: 'https://csd.guet.ltd/',
+                name: '穿山甲靶场',
+                url: 'http://121.40.203.219:8000/',
             },
             {
                 name: '信安小组靶场',
-                url: 'http://121.40.203.219:8000/',
-            }
+                url: 'http://139.159.138.129/',
+            },
         ]
     },
 ]
